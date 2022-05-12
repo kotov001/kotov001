@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotov001
 - 👀 I’m interested in APIs,C++,JAVA,python etc
-- 🌱 I’m currently learning ...Cloud Cmputing ERP Apis
+- 🌱 I’m currently learning ...Cloud Computing ,ERP, Apis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
